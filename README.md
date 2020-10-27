@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Compare the use of bike sharing systems in three major cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
 Include the files used
